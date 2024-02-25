@@ -28,7 +28,6 @@ This project implements a simple movie ticket booking system with two components
 1. Open a terminal window.
 2. Install both libraries using pip:
 
-```bash
 pip install requests Flask
 ```
 
