@@ -1,3 +1,5 @@
+// DOESN'T WORK
+
 // Retrieves the schedules for Lappeenranta STRAND based on the date
 const fetch = require('node-fetch');
 
