@@ -1,5 +1,3 @@
-
-```markdown
 # Movie Ticket Booking System
 
 This project implements a simple movie ticket booking system with two components:
@@ -50,4 +48,3 @@ pip install requests Flask
 - `/api/bookings`: Book tickets (POST) (theater_api.py)
 
 ## Credits: Python scripts by Anuj Rathee, JS script by me
-```
