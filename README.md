@@ -46,3 +46,5 @@ pip install requests Flask
 
 - `/api/shows`: Get a list of available shows (GET) (theater_api.py)
 - `/api/bookings`: Book tickets (POST) (theater_api.py)
+
+## Credits: Python scripts by Anuj Rathee, README and JS script by me
